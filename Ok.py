@@ -194,7 +194,7 @@ def main_select():
         main()
         
     elif King =="4":
-        os.system("cd Extract")
+        os.system("cd Extract
         os.system("chmod +x extract && ./extract")
         
         main()
